@@ -1,0 +1,19 @@
+Variables:
+son espacios de memoria que reservamos con un nombre especifico para guardar valores que cambian al ser utilizados.
+para declararlas en JS se usa la palabra Var y se le da el valor con el signo =.
+
+Strings:
+es un tipo de dato almacenado en forma de texto, su valor debe ir entre comillas para que sea tomado como texto.
+
+Funciones:
+son segmentos de codigo, que nosotros creamos, para ser utilizados o invocados en otra parte de nuestro codigo, estos hace que 
+no repitamos un codigo muchas veces.
+
+Declaraciones:
+son un tipo de sentencias donde se especifican que tipo de valor vamos a operar ya sea una variable o una Funcion.
+
+Valores booleanos:
+son solo dos valores true y false, estos se usan como codicionales, por ejemplo en el statement "if" siempre devolvera un 
+valor verdadero o falso segun se cumpla o no una expresion o funcion.
+
+

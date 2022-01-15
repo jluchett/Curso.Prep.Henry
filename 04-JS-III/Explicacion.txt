@@ -1,0 +1,6 @@
+Explicacion de que es un Arrays.
+
+Es un contenedor de elementos, y puede contener varios tipos de elementos, por ejemplo: numeros, texto, boleanos, etc.
+Este a su vez puede ser considerado como un elemento, 
+Se accede a cada elemento que contiene por medio del numero de la pocision donde se encuntre el elemento.
+Para crearlas se declara un nombre y se le da los datos usando los corchetes separando cada elemento por comas (,).
